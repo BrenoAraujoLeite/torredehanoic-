@@ -1,2 +1,2 @@
-#Torre de Hanoi em C++
+#TorredeHanoiemC
 Torre de Hanoi em C++
